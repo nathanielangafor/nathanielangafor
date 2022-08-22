@@ -11,15 +11,15 @@
 const nathanielangafor = {
     
     pronouns: "he" | "him",
-    code: [Python, Java, Javascript, Solidity, HTML, CSS],
+    codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C],
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "coffee"],
     
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", "react.js", "flask"]
         },
         backEnd: {
-            js: ["linux", "sql", "node", "pip"]
+            js: ["linux", "sql", "node", "pip", "flask", "git"]
         }        
     }
 
