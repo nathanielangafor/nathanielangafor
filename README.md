@@ -9,11 +9,11 @@
 
 ```javascript
 const nathanielangafor = {
-    <br/>
+    
     pronouns: "he" | "him",
     code: [Python, Java, Javascript, Solidity, HTML, CSS],
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "coffee"],
-    <br/>
+    
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize"]
@@ -22,7 +22,7 @@ const nathanielangafor = {
             js: ["linux", "sql", "node", "pip"]
         }        
     }
-    <br/>
+
 };
 ```
 
