@@ -9,6 +9,7 @@
 const nathanielangafor = {
     
     pronouns: "he" | "him",
+    spokenLanguages: [English, Russian, Kamtok],
     codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C],
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "coffee"],
     
