@@ -14,10 +14,10 @@ const nathanielangafor = {
     
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "react.js", "flask"]
+            tools: ["bootstrap", "react.js", "flask"]
         },
         backEnd: {
-            js: ["linux", "sql", "node", "pip", "flask", "git"]
+            tools: ["linux", "sql", "node", "pip", "flask", "git"]
         }        
     }
 };
