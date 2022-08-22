@@ -17,8 +17,8 @@ const nathanielangafor = {
             css: ["bootstrap", "materialize"]
         },
         backEnd: {
-            js: ["mysql", "node", "express", "web3, "jquery"],
-            python: ["flask", "sqlite", "selenium", "pandas", "beautifulsoup", "matplotlib"]
+            js: ["mysql", "node", "express", "web3", "jquery"],
+            python: ["flask", "sqlite", "selenium", "pandas", "beautifulsoup"]
         }        
     }
 };
