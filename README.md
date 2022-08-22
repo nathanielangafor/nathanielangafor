@@ -2,7 +2,7 @@
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/amabk_?style=social)
-[![Linkedin: nathanielangafor](https://www.linkedin.com/in/nathaniel-angafor/)](https://www.linkedin.com/in/nathaniel-angafor/)
+[![Linkedin: nathanielangafor](https://www.linkedin.com/in/nathaniel-angafor/)]
 ![](https://visitor-badge.glitch.me/badge?page_id=nathanielangafor.nathanielangafor)
 
 ### aboutMe.js
