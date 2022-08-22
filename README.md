@@ -6,7 +6,7 @@
 ### aboutMe.js
 
 ```javascript
-const nathanielangafor = {
+const nathanielAngafor = {
     pronouns: "he" | "him",
     spokenLanguages: [English, Russian, Kamtok],
     codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C],
