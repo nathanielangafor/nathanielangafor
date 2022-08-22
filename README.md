@@ -25,6 +25,6 @@ const nathanielangafor = {
 ```
 
 <p align="center">
-Check out my repos ⬇️  
+Check out my repos down below :)
 </p>
 
