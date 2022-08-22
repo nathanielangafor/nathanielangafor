@@ -7,7 +7,6 @@
 
 ```javascript
 const nathanielangafor = {
-    
     pronouns: "he" | "him",
     spokenLanguages: [English, Russian, Kamtok],
     codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C],
@@ -21,7 +20,6 @@ const nathanielangafor = {
             js: ["linux", "sql", "node", "pip", "flask", "git"]
         }        
     }
-
 };
 ```
 
