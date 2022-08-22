@@ -13,9 +13,13 @@ const nathanielangafor = {
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "coffee"],
     
     technologies: {
-        frontEnd: ["bootstrap", "react.js", "flask"],
-        backend: ["sql", "node", "pip", "flask", "git"],
-        interfaces: ["windows", "linux", "webservers"]
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["mysql", "node", "express", "web3"],
+            python: ["flask", "sqlite", "selenium", "tensorflow", "pandas", "beautifulsoup", "matplotlib"]
+        }        
     }
 };
 ```
