@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Amado Abaca, frontend developer
+## Hi there 👋 Welcome to my GitHub! I'm Nate, an aspiring Fullstack developer!
 
 [![Linkedin: nathaniel-angafor](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/amado-abaca-59845a1b4/)
 ![](https://visitor-badge.glitch.me/badge?page_id=nathanielangafor.nathanielangafor)
