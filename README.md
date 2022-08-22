@@ -2,7 +2,7 @@
 
 [![Linkedin: nathaniel-angafor](https://img.shields.io/badge/-Nate-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nathaniel-angafor/)](https://www.linkedin.com/in/nathaniel-angafor/)
 ![](https://visitor-badge.glitch.me/badge?page_id=nathanielangafor.nathanielangafor)
-![GitHub User's stars](https://img.shields.io/github/stars/nathanielangafor?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/nathanielangafor?style=plastic)
 
 ### aboutMe.js
 
