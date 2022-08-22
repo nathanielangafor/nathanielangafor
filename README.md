@@ -9,11 +9,11 @@
 const nathanielAngafor = {
     pronouns: "he" | "him",
     spokenLanguages: [English, Russian, Kamtok],
-    codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C],
+    codeLanguages: [Python, Java, Javascript, Solidity, HTML, CSS, C++, C, Swift],
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "boxing"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["bootstrap", "materialize"],
         },
         backEnd: {
             js: ["mysql", "node", "express", "web3", "jquery"],
