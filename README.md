@@ -14,10 +14,12 @@ const nathanielangafor = {
     
     technologies: {
         frontEnd: {
-            tools: ["bootstrap", "react.js", "flask"]
+            tools: ["bootstrap", "react.js", "flask"],
+            interfaces: ["xcode", "flutter"]
         },
         backEnd: {
-            tools: ["linux", "sql", "node", "pip", "flask", "git"]
+            tools: ["linux", "sql", "node", "pip", "flask", "git"],
+            interfaces: ["linux", "windows"]
         }        
     }
 };
