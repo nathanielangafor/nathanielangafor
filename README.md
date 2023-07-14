@@ -17,7 +17,7 @@ const nathanielAngafor = {
         },
         backEnd: {
             js: ["mysql", "node", "express", "web3", "jquery"],
-            python: ["amazon_aws", "flask", "sqlite", "selenium", "pandas", "beautifulsoup"]
+            python: ["amazon_aws", "flask", "sqlite", "selenium", "pandas", "beautifulsoup"],
             java: ["ANTLR"]
         }        
     }
