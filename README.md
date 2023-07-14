@@ -13,11 +13,12 @@ const nathanielAngafor = {
     askMeAbout: ["web3", "tech", "language learning", "travel", "music", "boxing"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"],
+            css: ["bootstrap", "materialize", "angular"],
         },
         backEnd: {
             js: ["mysql", "node", "express", "web3", "jquery"],
-            python: ["flask", "sqlite", "selenium", "pandas", "beautifulsoup"]
+            python: ["amazon_aws", "flask", "sqlite", "selenium", "pandas", "beautifulsoup"]
+            java: ["ANTLR"]
         }        
     }
 };
